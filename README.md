@@ -1408,30 +1408,6 @@ http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250820.mkv
 http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250821.mkv
 #EXTINF:-1,(IT-) The Flash S01 E23
 http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250822.mkv
-#EXTINF:-1,(IT-) Flashpoint S01 E01
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250840.mkv
-#EXTINF:-1,(IT-) Flashpoint S01 E02
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250841.mkv
-#EXTINF:-1,(IT-) Flashpoint S01 E03
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250842.mkv
-#EXTINF:-1,(IT-) Flashpoint S01 E04
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250843.mkv
-#EXTINF:-1,(IT-) Flashpoint S01 E05
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250844.mkv
-#EXTINF:-1,(IT-) Flashpoint S01 E06
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250845.mkv
-#EXTINF:-1,(IT-) Flashpoint S01 E07
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250846.mkv
-#EXTINF:-1,(IT-) Flashpoint S01 E08
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250847.mkv
-#EXTINF:-1,(IT-) Flashpoint S01 E09
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250848.mkv
-#EXTINF:-1,(IT-) Flashpoint S01 E10
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250849.mkv
-#EXTINF:-1,(IT-) Flashpoint S01 E11
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250850.mkv
-#EXTINF:-1,(IT-) Flashpoint S01 E12
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250851.mkv
 
 #EXTINF:-1,(IT-) Elisa di Rivombrosa S01 E01
 http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/250311.mkv
@@ -1887,16 +1863,7 @@ http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/189216.mp4
 http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/189217.mp4
 #EXTINF:-1,(IT-) Knightfall S01 E10
 http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/189218.mp4
-#EXTINF:-1,(EN-) Resistance S01 E01
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/189219.mkv
-#EXTINF:-1,(EN-) Resistance S01 E02
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/189220.mkv
-#EXTINF:-1,(EN-) Resistance S01 E03
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/189221.mkv
-#EXTINF:-1,(EN-) Resistance S01 E04
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/189222.mkv
-#EXTINF:-1,(EN-) Resistance S01 E05
-http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/189223.mkv
+
 #EXTINF:-1,(IT-) Tin Star S01 E01
 http://maxhd.eu:8080/series/nknDa6Panm/3XjYYzGMjt/189224.mp4
 #EXTINF:-1,(IT-) Tin Star S01 E02
